@@ -1,0 +1,16 @@
+## Ignore all scratch files
+scratch.*
+
+# Ignore this specific course folder
+100 Days of Code - The Complete Python Pro Bootcamp/
+
+# Ignore all __pycache__ folders recursively
+**/__pycache__/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Vs code's files
+.idea/
+**/.vens/
+**/.idea/
