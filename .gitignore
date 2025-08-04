@@ -12,5 +12,5 @@ scratch.*
 
 # Ignore Vs code's files
 .idea/
-**/.vens/
+**/.venv/
 **/.idea/
