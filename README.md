@@ -6,5 +6,5 @@ This repository is intended for non-commercial purposes, it, along with the rest
 Disclaimer
 
 All code is written by me based on course exercises. No proprietary course materials or copyrighted content are shared. 
-The original courses are available on netacad.com, offered by Cisco in collaboration with DevNet Group.
+The original courses are available on netacad.com, offered by Cisco in collaboration with the Python Institute.
 Thank you for offering me the chance to create programs!
